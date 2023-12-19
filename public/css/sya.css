@@ -1,0 +1,49 @@
+    body { 
+    font-family:arial narrow;
+    background: #c2f991 ;
+    }
+    h1 { font-size:30px ;
+       text-align: center;
+       color:whitesmoke;
+    }
+    .Jeno {
+         color:rgb(140, 62, 173) ;
+          font-size: 20px;
+          text-align: center;
+          font-family: Helvetica;    
+    }
+    .jisung {
+        padding-bottom: 5px;
+        color:rgb(140, 62, 173)  ;
+    }
+    .table {
+     background: hwb(90 80% 8%);
+     font-family: times new roman;
+    }
+    .nono {
+        color: rgb(140, 62, 173);
+    }
+    .mark {
+    padding-bottom: 5px;
+    color:rgb(140, 62, 173)  ;
+    }
+    .oki { 
+    text-align: center;
+    color:rgb(169, 36, 226)  ; 
+    font-size: 16px;
+    font-family: arial narrow;
+    }
+    .ais { color: rgb(169, 36, 226);
+    text-align: center;
+    }
+    .okt {
+    color:rgb(68, 17, 90);
+
+    }
+    .renjun {
+        justify-content: center;
+        width: 370px ;
+        height: 140px;
+        padding: 20px;
+        background-color:#eafed9;
+    }
